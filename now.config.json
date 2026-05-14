@@ -1,0 +1,6 @@
+{
+  "scope": "x_snc_gestione_pat",
+  "scopeId": "4b93f2520ffc4bd0d9191df300d1b2aa",
+  "name": "Gestione Patrimonio Immobiliare",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}

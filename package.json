@@ -1,0 +1,19 @@
+{
+    "name": "x-snc-gestione-patrimonio-immobiliare",
+    "version": "1.0.0",
+    "description": "[BUILD AGENT GENERATED]:  Estensione Workplace Management per la gestione del patrimonio immobiliare azienda energy generica. Include dati catastali italiani, gestione imposte (IMU, TARI), storicizzazione occupazionale e pratiche immobiliari per immobili non domestici di tipologia commerciale/industriale.",
+    "license": "UNLICENSED",
+    "imports": {
+        "#now:*": "./@types/servicenow/fluent/*/index.js"
+    },
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk install",
+        "transform": "now-sdk transform",
+        "types": "now-sdk dependencies"
+    },
+    "devDependencies": {
+        "@servicenow/sdk": "4.6.1",
+        "@servicenow/glide": "27.0.5"
+    }
+}
