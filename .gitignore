@@ -6,3 +6,4 @@ target/
 *.tsbuildinfo
 .jest_cache
 /docs/customer_records/
+/src/fluent/data/

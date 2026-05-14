@@ -5,6 +5,115 @@ declare global {
         namespace Internal {
             interface Keys extends KeysRegistry {
                 explicit: {
+                    '5b2a47d60fb88bd0d9191df300d1b236': {
+                        table: 'sys_ux_form_action_layout_item'
+                        id: '5b2a47d60fb88bd0d9191df300d1b236'
+                    }
+                    'a2a-bld-001': {
+                        table: 'sn_wsd_core_building'
+                        id: '0c6c8fdd5e5f4396853d14eb2ec7bf31'
+                        deleted: false
+                    }
+                    'a2a-bld-002': {
+                        table: 'sn_wsd_core_building'
+                        id: '40b55bf864ac43cd8302bc0925149b17'
+                        deleted: false
+                    }
+                    'a2a-bld-003': {
+                        table: 'sn_wsd_core_building'
+                        id: 'c9d8b3802aad43789a4c69c3bdc0e68c'
+                        deleted: false
+                    }
+                    'a2a-bld-004': {
+                        table: 'sn_wsd_core_building'
+                        id: '75d4e5a81f884d0b8fa8744e5c6ef79a'
+                        deleted: false
+                    }
+                    'a2a-bld-005': {
+                        table: 'sn_wsd_core_building'
+                        id: '65bb5b5218a04ba888c12695588100cb'
+                        deleted: false
+                    }
+                    'a2a-bld-006': {
+                        table: 'sn_wsd_core_building'
+                        id: '99ec95f5cb5f4ce69633b0c28289b8d5'
+                        deleted: false
+                    }
+                    'a2a-bld-007': {
+                        table: 'sn_wsd_core_building'
+                        id: '1a470181774143b7b5f1b2770c303e73'
+                        deleted: false
+                    }
+                    'a2a-bld-008': {
+                        table: 'sn_wsd_core_building'
+                        id: 'feb90e4d00d34432ad8da147eac2e185'
+                        deleted: false
+                    }
+                    'a2a-bld-009': {
+                        table: 'sn_wsd_core_building'
+                        id: 'fad9f1a5cb2648c595027e2c06539c7d'
+                        deleted: false
+                    }
+                    'a2a-bld-010': {
+                        table: 'sn_wsd_core_building'
+                        id: '66dad25cee944285ad57599fdb4592d6'
+                        deleted: false
+                    }
+                    'a2a-bld-011': {
+                        table: 'sn_wsd_core_building'
+                        id: '967d328fb3ae4e29b071acfb1af8ec0b'
+                        deleted: false
+                    }
+                    'a2a-bld-012': {
+                        table: 'sn_wsd_core_building'
+                        id: 'e55b7141d6bc443984b90fc81256f1d4'
+                        deleted: false
+                    }
+                    'a2a-bld-013': {
+                        table: 'sn_wsd_core_building'
+                        id: '305b35b5daa64de288f5628b5d5697e9'
+                        deleted: false
+                    }
+                    'a2a-bld-014': {
+                        table: 'sn_wsd_core_building'
+                        id: '36666c4fe97b4ae4980e0259f5dfd09e'
+                        deleted: false
+                    }
+                    'a2a-bld-015': {
+                        table: 'sn_wsd_core_building'
+                        id: 'b4d7206578a4403b88422f04a8ef6a6f'
+                        deleted: false
+                    }
+                    'a2a-bld-016': {
+                        table: 'sn_wsd_core_building'
+                        id: 'eebd9494fffc45aa880f8a56d11a0b6d'
+                        deleted: false
+                    }
+                    'a2a-bld-017': {
+                        table: 'sn_wsd_core_building'
+                        id: '65738e9f2b7c44ee87d546c302978532'
+                        deleted: false
+                    }
+                    'a2a-bld-018': {
+                        table: 'sn_wsd_core_building'
+                        id: '4438cfb70ebc43229d6bdcee2277b653'
+                        deleted: false
+                    }
+                    'a2a-bld-019': {
+                        table: 'sn_wsd_core_building'
+                        id: 'f32ab9fc87cc4f63b5f26b08f130283e'
+                        deleted: false
+                    }
+                    'a2a-bld-020': {
+                        table: 'sn_wsd_core_building'
+                        id: '8247d76eaeaa4a56b420e7b7a79f0086'
+                        deleted: false
+                    }
+                    'a2a-spa-company': {
+                        table: 'core_company'
+                        id: '95b48746fc904bcd9217c0d883ba4311'
+                        deleted: false
+                    }
                     'alq-ancona-2024': {
                         table: 'x_snc_gestione_pat_aliquote_comunali'
                         id: 'c33aa90460e64af2a2a33d67003885de'
@@ -209,9 +318,218 @@ declare global {
                         table: 'sys_module'
                         id: '138e8b1110d24da19ed9883ebd8ffe1a'
                     }
+                    'cat-a2a-001': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: '453a5bac3d7a423b83b9dd0171471600'
+                        deleted: true
+                    }
+                    'cat-a2a-002': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: 'ffe5ead7915543119e209af1076581fa'
+                        deleted: true
+                    }
+                    'cat-a2a-003': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: 'e067891c1f1f4d30b47f3810f5aa48b5'
+                        deleted: true
+                    }
+                    'cat-a2a-004': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: 'f544229771454da7b71bbcf34393d512'
+                        deleted: true
+                    }
+                    'cat-a2a-005': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: '81917f26dead437cbd9cab3bc3f4bd4a'
+                        deleted: true
+                    }
+                    'cat-a2a-006': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: '3bd379cf6c69434cbc656094f58242d8'
+                        deleted: true
+                    }
+                    'cat-a2a-007': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: 'b99b3e613a7e42c0b33e802b13781031'
+                        deleted: true
+                    }
+                    'cat-a2a-008': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: '70d91a4cf6214fc4ad97fbc8d3d4b6b0'
+                        deleted: true
+                    }
+                    'cat-a2a-009': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: 'a9936fd2f718428b9ba22ebd78113a4d'
+                        deleted: true
+                    }
+                    'cat-a2a-010': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: 'ec5fb6b4911e4aafbc4c8f2da26abafe'
+                        deleted: true
+                    }
+                    'cat-a2a-011': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: 'b38398015fd44a1288a6b7933a343816'
+                        deleted: true
+                    }
+                    'cat-a2a-012': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: 'e5293af08e094069821a237cbb5be6a1'
+                        deleted: true
+                    }
+                    'cat-a2a-013': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: 'a5fac3eb0a064490aed6876734a0060b'
+                        deleted: true
+                    }
+                    'cat-a2a-014': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: '44e0328089464140bbc0fd07a0211900'
+                        deleted: true
+                    }
+                    'cat-a2a-015': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: 'c722c848bfbe4653a795689853aa2e40'
+                        deleted: true
+                    }
+                    'cat-a2a-016': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: '5260ec419f0a47b2b47246e0d46266d7'
+                        deleted: true
+                    }
+                    'cat-a2a-017': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: '24285745fa6148b6b1ae4be11e33a30f'
+                        deleted: true
+                    }
+                    'cat-a2a-018': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: '20563cda645946fdb7bfaefddc714b3c'
+                        deleted: true
+                    }
+                    'cat-a2a-019': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: 'f0563a9585ea47f7a1db7af65dd89a0e'
+                        deleted: true
+                    }
+                    'cat-a2a-020': {
+                        table: 'x_snc_gestione_pat_dati_catastali'
+                        id: '2237314240b9432f9bfd18b3c9fc9703'
+                        deleted: true
+                    }
+                    'imm-a2a-001': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: '4b3fe30b3fcc43cb9e92c28a8d5304f9'
+                        deleted: false
+                    }
+                    'imm-a2a-002': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: 'b15b8443eccc457fa8475b3fee7eeaa9'
+                        deleted: false
+                    }
+                    'imm-a2a-003': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: '9bea4208ff5e48b18a669eac0c38d6a2'
+                        deleted: false
+                    }
+                    'imm-a2a-004': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: '901c1b8316884acdbf9d06d0705d390b'
+                        deleted: false
+                    }
+                    'imm-a2a-005': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: '7ac53255edfa4f70848eb9bdb814ba96'
+                        deleted: false
+                    }
+                    'imm-a2a-006': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: 'b4b373d6c3b44ac7a392a3ad08f03790'
+                        deleted: false
+                    }
+                    'imm-a2a-007': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: '768900963dd244008f2539e2e0312543'
+                        deleted: false
+                    }
+                    'imm-a2a-008': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: '432e250b0bf04f208258c2a7f7abe594'
+                        deleted: false
+                    }
+                    'imm-a2a-009': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: 'e6b8b1e07bab48f79d16b0ef528185e6'
+                        deleted: false
+                    }
+                    'imm-a2a-010': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: '9c27c8e6ba8c4b81ab1781ae0527582c'
+                        deleted: false
+                    }
+                    'imm-a2a-011': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: 'b3a27913d43b4b24b6f7d038231f9142'
+                        deleted: false
+                    }
+                    'imm-a2a-012': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: 'cfadaefac94b42e7bf630e7a122e9f4f'
+                        deleted: false
+                    }
+                    'imm-a2a-013': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: '02466d0b2c264aea9796392921f229ee'
+                        deleted: false
+                    }
+                    'imm-a2a-014': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: '24c7e64e3e2443b9b1b4b679974f469e'
+                        deleted: false
+                    }
+                    'imm-a2a-015': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: 'cf39090d58e8447fb696f1b63ae59fcf'
+                        deleted: false
+                    }
+                    'imm-a2a-016': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: 'dec075d4e2db4d73a9c9e19af90d6d92'
+                        deleted: false
+                    }
+                    'imm-a2a-017': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: '37dfff2392ee45c7a06cc28dfae749a5'
+                        deleted: false
+                    }
+                    'imm-a2a-018': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: '6bf9710f8bda4a3183098e19c7b6e21f'
+                        deleted: false
+                    }
+                    'imm-a2a-019': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: '45d85cca34dc4e488bc996a26ef3dfc6'
+                        deleted: false
+                    }
+                    'imm-a2a-020': {
+                        table: 'x_snc_gestione_pat_dati_immobiliari'
+                        id: '1fba66f816264606a002bc612abbef2f'
+                        deleted: false
+                    }
                     package_json: {
                         table: 'sys_module'
                         id: '1d7666273cb14ece949c3307b27540a7'
+                    }
+                    'src_server_calcola-tari_ts': {
+                        table: 'sys_module'
+                        id: '0c1f8ed5e5ec404d81a068681831e2ba'
+                        deleted: true
+                    }
+                    'ua-calcola-tari': {
+                        table: 'sys_ui_action'
+                        id: '69db2379de444842a85b57d6bc93c426'
                     }
                 }
                 composite: [
@@ -323,6 +641,40 @@ declare global {
                             }
                             element: 'foglio'
                             position: '19'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '02968f5a0f388bd0d9191df300d1b266'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'tipologia_immobile'
+                            position: '6'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '02968f5a0f388bd0d9191df300d1b26d'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'destinazione_uso'
+                            position: '14'
                         }
                     },
                     {
@@ -439,6 +791,40 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '06968f5a0f388bd0d9191df300d1b264'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'superficie_occupata'
+                            position: '4'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '06968f5a0f388bd0d9191df300d1b26b'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'codice_interno'
+                            position: '12'
+                        }
+                    },
+                    {
                         table: 'sys_dictionary'
                         id: '07b29002a2804d32b64b0345aca89d3e'
                         key: {
@@ -540,6 +926,72 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_section'
+                        id: '0a968f5a0f388bd0d9191df300d1b25b'
+                        key: {
+                            name: 'x_snc_gestione_pat_dati_immobiliari'
+                            caption: 'NULL'
+                            view: {
+                                id: 'Default view'
+                                key: {
+                                    name: 'NULL'
+                                }
+                            }
+                            sys_domain: 'global'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '0a968f5a0f388bd0d9191df300d1b262'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'titolo_possesso'
+                            position: '2'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '0a968f5a0f388bd0d9191df300d1b269'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'building'
+                            position: '10'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '0a968f5a0f388bd0d9191df300d1b270'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'proprietario'
+                            position: '18'
+                        }
+                    },
+                    {
                         table: 'sys_dictionary'
                         id: '0c4f37b56f434db9a5ca770585fb5389'
                         key: {
@@ -607,6 +1059,57 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '0e968f5a0f388bd0d9191df300d1b260'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.begin_split'
+                            position: '0'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '0e968f5a0f388bd0d9191df300d1b267'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.split'
+                            position: '8'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '0e968f5a0f388bd0d9191df300d1b26e'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.end_split'
+                            position: '16'
+                        }
+                    },
+                    {
                         table: 'sys_documentation'
                         id: '0fae0a85d4ba4161b5e01869ff273d2c'
                         key: {
@@ -657,6 +1160,57 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '11b6db9e0ffc8bd0d9191df300d1b25b'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'superficie_esclusa'
+                            position: '1'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '11b6db9e0ffc8bd0d9191df300d1b262'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'descrizione_categoria'
+                            position: '9'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '11b6db9e0ffc8bd0d9191df300d1b269'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'note'
+                            position: '17'
+                        }
+                    },
+                    {
                         table: 'sys_documentation'
                         id: '125aa76c00b14358884cb3e181ddc4c6'
                         key: {
@@ -689,11 +1243,69 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '15b6db9e0ffc8bd0d9191df300d1b260'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'tassa_immobile'
+                            position: '7'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '15b6db9e0ffc8bd0d9191df300d1b267'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'importo_totale_calcolato'
+                            position: '15'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '15b6db9e0ffc8bd0d9191df300d1b26e'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'comune_competente'
+                            position: '23'
+                        }
+                    },
+                    {
                         table: 'sys_choice_set'
                         id: '16d4fd281bde4333bd3dd8d7a62ebc53'
                         key: {
                             name: 'x_snc_gestione_pat_dati_catastali'
                             element: 'stato'
+                        }
+                    },
+                    {
+                        table: 'sys_ux_form_action'
+                        id: '172a8b960fb88bd0d9191df300d1b2d3'
+                        key: {
+                            ui_action: '69db2379de444842a85b57d6bc93c426'
                         }
                     },
                     {
@@ -749,6 +1361,57 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '19b6db9e0ffc8bd0d9191df300d1b25e'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'tariffa_fissa'
+                            position: '5'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '19b6db9e0ffc8bd0d9191df300d1b265'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.split'
+                            position: '13'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '19b6db9e0ffc8bd0d9191df300d1b26c'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'riduzione_applicata'
+                            position: '21'
+                        }
+                    },
+                    {
                         table: 'sys_choice'
                         id: '1a56af2714a3416baeadf27b33f46302'
                         key: {
@@ -799,6 +1462,57 @@ declare global {
                             name: 'x_snc_gestione_pat_pratiche_immobiliari'
                             element: 'tipo_pratica'
                             language: 'en'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '1db6db9e0ffc8bd0d9191df300d1b25c'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'superficie_tassabile'
+                            position: '3'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '1db6db9e0ffc8bd0d9191df300d1b263'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'importo_fisso_calcolato'
+                            position: '11'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '1db6db9e0ffc8bd0d9191df300d1b26a'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'percentuale_riduzione'
+                            position: '19'
                         }
                     },
                     {
@@ -1322,6 +2036,40 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '511603960f388bd0d9191df300d1b214'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'esenzione'
+                            position: '14'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '5116cf560f388bd0d9191df300d1b2f5'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'periodo_da'
+                            position: '7'
+                        }
+                    },
+                    {
                         table: 'sys_documentation'
                         id: '519e806db6cd4eb7ae1953f4c99fa2ef'
                         key: {
@@ -1346,6 +2094,74 @@ declare global {
                             name: 'x_snc_gestione_pat_pratiche_immobiliari'
                             element: 'note'
                             language: 'en'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '551603960f388bd0d9191df300d1b212'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'anno_fiscale'
+                            position: '12'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '551603960f388bd0d9191df300d1b219'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'note'
+                            position: '20'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '5516cf560f388bd0d9191df300d1b2ee'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.begin_split'
+                            position: '0'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '5516cf560f388bd0d9191df300d1b2f3'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.split'
+                            position: '5'
                         }
                     },
                     {
@@ -1378,6 +2194,40 @@ declare global {
                         key: {
                             name: 'x_snc_gestione_pat_pratiche_immobiliari'
                             element: 'assegnato_a'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '591603960f388bd0d9191df300d1b217'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'data_versamento'
+                            position: '18'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '5916cf560f388bd0d9191df300d1b2f1'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'periodo_a'
+                            position: '3'
                         }
                     },
                     {
@@ -1436,6 +2286,57 @@ declare global {
                         key: {
                             name: 'x_snc_gestione_pat_tasse_immobile'
                             element: 'anno_fiscale'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '5d1603960f388bd0d9191df300d1b215'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'tipo_tassa'
+                            position: '16'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '5d16cf560f388bd0d9191df300d1b2ef'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'number'
+                            position: '1'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '5d16cf560f388bd0d9191df300d1b2f6'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.end_split'
+                            position: '9'
                         }
                     },
                     {
@@ -1883,6 +2784,40 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '82968f5a0f388bd0d9191df300d1b265'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'superficie_totale'
+                            position: '5'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '82968f5a0f388bd0d9191df300d1b26c'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'stato_immobile'
+                            position: '13'
+                        }
+                    },
+                    {
                         table: 'sys_dictionary'
                         id: '8481748a75604eaca9da4317b334628c'
                         key: {
@@ -1963,6 +2898,40 @@ declare global {
                             name: 'x_snc_gestione_pat_dati_immobiliari'
                             element: 'titolo_possesso'
                             value: 'diritto_superficie'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '86968f5a0f388bd0d9191df300d1b263'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'percentuale_occupazione'
+                            position: '3'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '86968f5a0f388bd0d9191df300d1b26a'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'anno_riferimento'
+                            position: '11'
                         }
                     },
                     {
@@ -2076,6 +3045,57 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '8a968f5a0f388bd0d9191df300d1b261'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'number'
+                            position: '1'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '8a968f5a0f388bd0d9191df300d1b268'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'business_unit'
+                            position: '9'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '8a968f5a0f388bd0d9191df300d1b26f'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'note'
+                            position: '17'
+                        }
+                    },
+                    {
                         table: 'sys_choice'
                         id: '8b0f46fc54a2473c80efd48216755f5d'
                         key: {
@@ -2154,6 +3174,40 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '8e968f5a0f388bd0d9191df300d1b266'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'data_inizio_occupazione'
+                            position: '7'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '8e968f5a0f388bd0d9191df300d1b26d'
+                        key: {
+                            sys_ui_section: {
+                                id: '0a968f5a0f388bd0d9191df300d1b25b'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_immobiliari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'data_fine_occupazione'
+                            position: '15'
+                        }
+                    },
+                    {
                         table: 'sys_dictionary'
                         id: '8e9d5e6866ba4434aa8bd8ad292ca92c'
                         key: {
@@ -2184,6 +3238,55 @@ declare global {
                             name: 'x_snc_gestione_pat_aliquote_comunali'
                             element: 'note'
                             language: 'en'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_section'
+                        id: '91160b560f388bd0d9191df300d1b2c3'
+                        key: {
+                            name: 'x_snc_gestione_pat_tasse_immobile'
+                            caption: 'NULL'
+                            view: {
+                                id: 'Default view'
+                                key: {
+                                    name: 'NULL'
+                                }
+                            }
+                            sys_domain: 'global'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '91b6db9e0ffc8bd0d9191df300d1b261'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.end_split'
+                            position: '8'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '91b6db9e0ffc8bd0d9191df300d1b268'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.end_split'
+                            position: '16'
                         }
                     },
                     {
@@ -2239,6 +3342,74 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '95b6db9e0ffc8bd0d9191df300d1b259'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.begin_split'
+                            position: '0'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '95b6db9e0ffc8bd0d9191df300d1b25f'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'importo_variabile_calcolato'
+                            position: '6'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '95b6db9e0ffc8bd0d9191df300d1b266'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'quota_provinciale'
+                            position: '14'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '95b6db9e0ffc8bd0d9191df300d1b26d'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.end_split'
+                            position: '22'
+                        }
+                    },
+                    {
                         table: 'sys_db_object'
                         id: '96fdc3a83c1a4b85a08bb839f4a50be2'
                         key: {
@@ -2259,6 +3430,57 @@ declare global {
                         key: {
                             name: 'x_snc_gestione_pat_aliquote_comunali'
                             element: 'comune'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '99b6db9e0ffc8bd0d9191df300d1b25d'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.split'
+                            position: '4'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '99b6db9e0ffc8bd0d9191df300d1b264'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'categoria_tari'
+                            position: '12'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '99b6db9e0ffc8bd0d9191df300d1b26b'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.split'
+                            position: '20'
                         }
                     },
                     {
@@ -2293,6 +3515,57 @@ declare global {
                             name: 'x_snc_gestione_pat_dati_immobiliari'
                             element: 'titolo_possesso'
                             value: 'concessione'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '9db6db9e0ffc8bd0d9191df300d1b25b'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'tariffa_variabile'
+                            position: '2'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '9db6db9e0ffc8bd0d9191df300d1b262'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.begin_split'
+                            position: '10'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '9db6db9e0ffc8bd0d9191df300d1b269'
+                        key: {
+                            sys_ui_section: {
+                                id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dettaglio_tari'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.begin_split'
+                            position: '18'
                         }
                     },
                     {
@@ -2816,11 +4089,111 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: 'd11603960f388bd0d9191df300d1b213'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'percentuale_possesso'
+                            position: '13'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: 'd116cf560f388bd0d9191df300d1b2f4'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'stato'
+                            position: '6'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_section'
+                        id: 'd1b65b9e0ffc8bd0d9191df300d1b2ea'
+                        key: {
+                            name: 'x_snc_gestione_pat_dettaglio_tari'
+                            caption: 'NULL'
+                            view: {
+                                id: 'Default view'
+                                key: {
+                                    name: 'NULL'
+                                }
+                            }
+                            sys_domain: 'global'
+                        }
+                    },
+                    {
                         table: 'sys_dictionary'
                         id: 'd361d0557021457cac473036ef793f26'
                         key: {
                             name: 'x_snc_gestione_pat_dati_immobiliari'
                             element: 'destinazione_uso'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: 'd51603960f388bd0d9191df300d1b211'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.begin_split'
+                            position: '11'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: 'd51603960f388bd0d9191df300d1b218'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.end_split'
+                            position: '19'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: 'd516cf560f388bd0d9191df300d1b2f2'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'importo_versato'
+                            position: '4'
                         }
                     },
                     {
@@ -2877,6 +4250,57 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: 'd91603960f388bd0d9191df300d1b216'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'mesi_competenza'
+                            position: '17'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: 'd916cf560f388bd0d9191df300d1b2f0'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'building'
+                            position: '2'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: 'd916cf560f388bd0d9191df300d1b2f7'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'motivo_esenzione'
+                            position: '10'
+                        }
+                    },
+                    {
                         table: 'sys_documentation'
                         id: 'd938a0804d12475c879298c84aa94721'
                         key: {
@@ -2909,6 +4333,40 @@ declare global {
                         key: {
                             name: 'x_snc_gestione_pat_tasse_immobile'
                             element: 'importo_versato'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: 'dd1603960f388bd0d9191df300d1b214'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.split'
+                            position: '15'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: 'dd16cf560f388bd0d9191df300d1b2f5'
+                        key: {
+                            sys_ui_section: {
+                                id: '91160b560f388bd0d9191df300d1b2c3'
+                                key: {
+                                    name: 'x_snc_gestione_pat_tasse_immobile'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'importo_dovuto'
+                            position: '8'
                         }
                     },
                     {
