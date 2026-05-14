@@ -5,6 +5,206 @@ declare global {
         namespace Internal {
             interface Keys extends KeysRegistry {
                 explicit: {
+                    'alq-ancona-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'c33aa90460e64af2a2a33d67003885de'
+                    }
+                    'alq-andria-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'b18920c2a1ce4133ac412e4b7a183455'
+                    }
+                    'alq-arezzo-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'b957c2eb25244287af375dd712fc0b67'
+                    }
+                    'alq-bari-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '1ac50b83b43e454da0354823c14561ec'
+                    }
+                    'alq-bergamo-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '631d77f0062b42a0bf6fd6dbd6846b3c'
+                    }
+                    'alq-bologna-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '22fddd88b15d4bf69338b454791703bc'
+                    }
+                    'alq-bolzano-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '754ab44088d64a1c931aabc1dfad1a0e'
+                    }
+                    'alq-brescia-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'd2c12038328e4298bab913726d09337b'
+                    }
+                    'alq-cagliari-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '0b386f298e87455fb376a3e9e3f88330'
+                    }
+                    'alq-catania-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '41e08443241e44688a0d279ea46ce2e7'
+                    }
+                    'alq-cesena-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'a3536178aa434ef399e89a178a3e13f3'
+                    }
+                    'alq-ferrara-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'e77db62d33514389afad1b699bb7b270'
+                    }
+                    'alq-firenze-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '768e5725d8fc462d89faaf1e13530c54'
+                    }
+                    'alq-foggia-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'e0d4d1b331bf4ecaaebf518eebbc1436'
+                    }
+                    'alq-forli-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'dd0470992caf4ad499074d755f6ac8c5'
+                    }
+                    'alq-genova-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'e9b123e615974a50b1a97064b9dd534a'
+                    }
+                    'alq-giugliano-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '0b6f2fdc62944446818789e9828467f8'
+                    }
+                    'alq-latina-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '4948096c444c4a5288d82668d1efa448'
+                    }
+                    'alq-lecce-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '8baa4886b5274814a708223f4a1b1f6b'
+                    }
+                    'alq-livorno-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '6e752919948645a9ab3945cb6cbf479b'
+                    }
+                    'alq-messina-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'd7afa6ddcac84d639d91ba053c4d2060'
+                    }
+                    'alq-milano-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '64ec45eb9d9343c1b09b5b75e134d65c'
+                    }
+                    'alq-modena-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '696c4f2c146e40578bb98b8306916111'
+                    }
+                    'alq-monza-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '1457c0288d3840cf81d0c2a123f1ce05'
+                    }
+                    'alq-napoli-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '80353a3da2624b6b988d8c3c24c45342'
+                    }
+                    'alq-novara-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'b990cde99de44d3db3b8268423973492'
+                    }
+                    'alq-padova-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'a476fd19db034963bb6242733b39f43b'
+                    }
+                    'alq-palermo-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'faefe11278c24359ada1c980f076d4ff'
+                    }
+                    'alq-parma-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'e7f1005ac9bc4956b074b14ae162d256'
+                    }
+                    'alq-perugia-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '04461199c2a344398c3910e500975222'
+                    }
+                    'alq-pescara-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '9986fd925b7246518ce9ec2f53df3af3'
+                    }
+                    'alq-piacenza-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'a4be87fbc74c4b20826bdf64edcd1350'
+                    }
+                    'alq-prato-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'd126d59e5fad4981853050201b876fa3'
+                    }
+                    'alq-ravenna-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '2b368dc3576446b5abf5b03d9e5f7545'
+                    }
+                    'alq-reggio-calabria-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '6aa0e92c8d994fbda8b36702d1fd85d3'
+                    }
+                    'alq-reggio-emilia-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '83feca13bb084344b0f5969b525946a7'
+                    }
+                    'alq-rimini-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '2661d134c151408a960404b5e3c11c3c'
+                    }
+                    'alq-roma-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '3c7695473cca45b2b3b0bc7114db98c0'
+                    }
+                    'alq-salerno-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '76aa5de81e8649928f2e3e8698d11e65'
+                    }
+                    'alq-sassari-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'f1b48a6c5ec2414b80624b0da4cd9390'
+                    }
+                    'alq-siracusa-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '95aafd9d359d4874b38d1ed21676c078'
+                    }
+                    'alq-taranto-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '37ee1092bdfc443194e6e1a8048bc1a2'
+                    }
+                    'alq-terni-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '3273228ce5b44821b9e21c14e973153d'
+                    }
+                    'alq-torino-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '7048e72fc8c048d9ab78deb2ee6d2249'
+                    }
+                    'alq-trento-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '2a01a737070c4c2f96f6d8786b3d0f0b'
+                    }
+                    'alq-trieste-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'edbc18103e3542018b28769880966f90'
+                    }
+                    'alq-udine-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'ad11417dcf6844f19f1bf6fbad5232eb'
+                    }
+                    'alq-venezia-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'a2991f9eeb494eaf95efd24b37023f06'
+                    }
+                    'alq-verona-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: '298acc7ca1db4d589112db6317abd4fc'
+                    }
+                    'alq-vicenza-2024': {
+                        table: 'x_snc_gestione_pat_aliquote_comunali'
+                        id: 'c6ebe3b640e84b7292e411aebf756034'
+                    }
                     bom_json: {
                         table: 'sys_module'
                         id: '138e8b1110d24da19ed9883ebd8ffe1a'
@@ -75,6 +275,57 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '01c6be5a0f308bd0d9191df300d1b230'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'classe'
+                            position: '3'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '01c6be5a0f308bd0d9191df300d1b237'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'rendita_catastale'
+                            position: '11'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '01c6be5a0f308bd0d9191df300d1b23e'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'foglio'
+                            position: '19'
+                        }
+                    },
+                    {
                         table: 'sys_documentation'
                         id: '0316c03ae2744cdb897eefe2c4a8d145'
                         key: {
@@ -137,6 +388,57 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '05c6be5a0f308bd0d9191df300d1b22e'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'number'
+                            position: '1'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '05c6be5a0f308bd0d9191df300d1b235'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'data_accatastamento'
+                            position: '9'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '05c6be5a0f308bd0d9191df300d1b23c'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'particella'
+                            position: '17'
+                        }
+                    },
+                    {
                         table: 'sys_dictionary'
                         id: '07b29002a2804d32b64b0345aca89d3e'
                         key: {
@@ -158,6 +460,74 @@ declare global {
                         id: '09b6d0855e4347ce98c8de0517312bef'
                         key: {
                             name: 'x_snc_gestione_pat_dettaglio_imu'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '09c6be5a0f308bd0d9191df300d1b22c'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.begin_split'
+                            position: '0'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '09c6be5a0f308bd0d9191df300d1b233'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'categoria_catastale'
+                            position: '7'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '09c6be5a0f308bd0d9191df300d1b23a'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.begin_split'
+                            position: '15'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '09c6be5a0f308bd0d9191df300d1b241'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'zona_censuaria'
+                            position: '23'
                         }
                     },
                     {
@@ -183,6 +553,57 @@ declare global {
                         key: {
                             name: 'x_snc_gestione_pat_pratiche_immobiliari'
                             element: 'ente_destinatario'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '0dc6be5a0f308bd0d9191df300d1b231'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'note'
+                            position: '5'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '0dc6be5a0f308bd0d9191df300d1b238'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.end_split'
+                            position: '13'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '0dc6be5a0f308bd0d9191df300d1b23f'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'consistenza'
+                            position: '21'
                         }
                     },
                     {
@@ -550,6 +971,21 @@ declare global {
                         key: {
                             name: 'x_snc_gestione_pat_tasse_immobile'
                             element: 'building'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_section'
+                        id: '30c6365a0f308bd0d9191df300d1b249'
+                        key: {
+                            name: 'x_snc_gestione_pat_dati_catastali'
+                            caption: 'NULL'
+                            view: {
+                                id: 'Default view'
+                                key: {
+                                    name: 'NULL'
+                                }
+                            }
+                            sys_domain: 'global'
                         }
                     },
                     {
@@ -1387,6 +1823,57 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '81c6be5a0f308bd0d9191df300d1b22f'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.split'
+                            position: '2'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '81c6be5a0f308bd0d9191df300d1b236'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.split'
+                            position: '10'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '81c6be5a0f308bd0d9191df300d1b23d'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'superficie_catastale'
+                            position: '18'
+                        }
+                    },
+                    {
                         table: 'sys_choice'
                         id: '827d21dade024bfc9944dcf1a9e91233'
                         key: {
@@ -1409,6 +1896,57 @@ declare global {
                         key: {
                             name: 'x_snc_gestione_pat_dati_immobiliari'
                             element: 'tipologia_immobile'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '85c6be5a0f308bd0d9191df300d1b234'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'stato'
+                            position: '8'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '85c6be5a0f308bd0d9191df300d1b23b'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'building'
+                            position: '16'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '85c6be5a0f308bd0d9191df300d1b242'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.end_split'
+                            position: '24'
                         }
                     },
                     {
@@ -1470,6 +2008,57 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '89c6be5a0f308bd0d9191df300d1b232'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.begin_split'
+                            position: '6'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '89c6be5a0f308bd0d9191df300d1b239'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'comune_catastale'
+                            position: '14'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '89c6be5a0f308bd0d9191df300d1b240'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'subalterno'
+                            position: '22'
+                        }
+                    },
+                    {
                         table: 'sys_documentation'
                         id: '8a26cab96b0949daa2c9b297395c997c'
                         key: {
@@ -1502,6 +2091,57 @@ declare global {
                             name: 'x_snc_gestione_pat_aliquote_comunali'
                             element: 'aliquota_imu_cat_d'
                             language: 'en'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '8dc6be5a0f308bd0d9191df300d1b230'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.end_split'
+                            position: '4'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '8dc6be5a0f308bd0d9191df300d1b237'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'sezione'
+                            position: '12'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '8dc6be5a0f308bd0d9191df300d1b23e'
+                        key: {
+                            sys_ui_section: {
+                                id: '30c6365a0f308bd0d9191df300d1b249'
+                                key: {
+                                    name: 'x_snc_gestione_pat_dati_catastali'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.split'
+                            position: '20'
                         }
                     },
                     {

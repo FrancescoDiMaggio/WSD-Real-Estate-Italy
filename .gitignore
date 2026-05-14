@@ -5,4 +5,4 @@ node_modules/
 target/
 *.tsbuildinfo
 .jest_cache
-/docs/buildings.json
+/docs/customer_records/
